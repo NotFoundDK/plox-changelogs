@@ -4,21 +4,11 @@
 
 ## Overview
 
-* [💡 Vagt Docs](overview/vagt-docs.md)
+* [💡 Bedste Vagt](overview/bedste-vagt.md)
 * [✨ Our Features](overview/our-features.md)
 
-## Product Guides
+## DEV
 
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
-
-## Fundamentals
-
-* [🛠 Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
-
-## Use Cases
-
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥 For Developers](use-cases/for-developers.md)
+* [🛠 Change - Log](dev/change-log/README.md)
+  * [📝 Setting permissions](dev/change-log/setting-permissions.md)
+  * [🧑 Inviting Members](dev/change-log/inviting-members.md)

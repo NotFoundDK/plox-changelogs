@@ -1,4 +1,8 @@
-# 💡 Vagt Docs
+---
+description: Her kan du læste omkring hvordan du bliver den bedste vagt.
+---
+
+# 💡 Bedste Vagt
 
 {% hint style="info" %}
 **Plox Tip:** Få mange venner ved at blive den bedste vagt.
