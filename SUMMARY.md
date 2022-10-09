@@ -5,7 +5,6 @@
 ## Overview
 
 * [💡 Bedste Vagt](overview/bedste-vagt.md)
-* [✨ Our Features](overview/our-features.md)
 
 ## DEV
 
