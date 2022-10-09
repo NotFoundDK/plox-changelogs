@@ -4,10 +4,10 @@
 
 ## Overview
 
-* [💡 Bedste Vagt](overview/bedste-vagt.md)
+* [💡 Bedste Vagt](overview/vagt-docs.md)
 
 ## DEV
 
-* [🛠 Change - Log](dev/change-log/README.md)
-  * [📝 Setting permissions](dev/change-log/setting-permissions.md)
-  * [🧑 Inviting Members](dev/change-log/inviting-members.md)
+* [🛠 Change - Log](fundamentals/getting-set-up/README.md)
+  * [📝 Prison](dev/change-log/prison.md)
+  * [📝 Mini Games](dev/change-log/mini-games.md)
