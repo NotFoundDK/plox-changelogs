@@ -1,17 +1,9 @@
 # 🛠 Change - Log
 
-<details>
+{% content-ref url="../../dev/change-log/prison.md" %}
+[prison.md](../../dev/change-log/prison.md)
+{% endcontent-ref %}
 
-<summary>Prison</summary>
-
-
-
-</details>
-
-<details>
-
-<summary>Mini Games</summary>
-
-
-
-</details>
+{% content-ref url="../../dev/change-log/mini-games.md" %}
+[mini-games.md](../../dev/change-log/mini-games.md)
+{% endcontent-ref %}
