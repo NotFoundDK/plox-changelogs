@@ -14,6 +14,6 @@ Her nogle ting som du kan finde i vores docs:
 >
 > På hele serveren
 >
-> — Gå til [Vagt Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
+> — Gå til [Vagt Docs](overview/vagt-docs.md)
 
 ## How to
