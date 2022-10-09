@@ -1,4 +1,4 @@
-# 👋 Welcome to A Product
+# 👋 Plox DK
 
 {% hint style="info" %}
 **Plox Tip:** Hvis du vil tjene mange penge. Så få et farmer kit eller lav dig selv om til en pro famer!
@@ -6,13 +6,15 @@
 
 ## Oversigt
 
-Here are a couple of example overviews from products with really great docs:
+Her nogle ting som du kan finde i vores docs:
 
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
+> Hvordan du køber Vagt.
 >
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
+> Og der efter bliver den bedste vagt.
 >
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
+> På hele serveren
+>
+> — Gå til [Vagt Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
 
 > The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
 >
@@ -20,8 +22,8 @@ Here are a couple of example overviews from products with really great docs:
 
 ## Quick links
 
-{% content-ref url="overview/what-we-do.md" %}
-[what-we-do.md](overview/what-we-do.md)
+{% content-ref url="overview/vagt-docs.md" %}
+[vagt-docs.md](overview/vagt-docs.md)
 {% endcontent-ref %}
 
 {% content-ref url="overview/our-features.md" %}

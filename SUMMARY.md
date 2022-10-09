@@ -1,10 +1,10 @@
 # Table of contents
 
-* [👋 Welcome to A Product](README.md)
+* [👋 Plox DK](README.md)
 
 ## Overview
 
-* [💡 What we do](overview/what-we-do.md)
+* [💡 Vagt Docs](overview/vagt-docs.md)
 * [✨ Our Features](overview/our-features.md)
 
 ## Product Guides
