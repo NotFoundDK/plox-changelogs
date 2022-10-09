@@ -1,10 +1,10 @@
 # 👋 Welcome to A Product
 
 {% hint style="info" %}
-**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
+**Plox Tip:** Hvis du vil tjene mange penge. Så få et farmer kit eller lav dig selv om til en pro famer!
 {% endhint %}
 
-## Overview
+## Oversigt
 
 Here are a couple of example overviews from products with really great docs:
 
